@@ -10,7 +10,7 @@ else:
     print("bye *_*")
     exit()
 
-print("Guardian:")
+print("Bodyguard:")
 user_age = int(input("-What's your age? : "))
 if user_age >= legal_age:
     print("You can pass bro!")
